@@ -14,7 +14,7 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Matplotlib
 
 **4 - Análise Exploratória:** Essa é uma das etapas mais importantes, pois é onde vamos analisar cada característica da base de dados e de cada variável. Aqui entra o processo de estatística descritiva que irá nos trazer informações a respeito sobre a dispersão, centralidade, forma e dependência de nossos dados.
 
-**5 - Visualização dos Dados:**
+**5 - Visualização dos Dados:** A visualização dos dados nos ajuda a obter insights valiosos, ajudando a comparar conjuntos de dados e observar relacionamentos. 
 
 
 

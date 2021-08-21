@@ -8,7 +8,7 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Matplotlib
 **1 - Importação da base de dados:**  Nessa etapa é onde realizamos a importação da nossa base de dados que será analisada posteriormente.
 
 
-**2 - Validação e Transformação:** Esse é o momento de consolidar todos os dados recolhidos. Se foram recolhidos de diversas fontes é hora de normalizados, aplicar um padrão único de entrada.
+**2 - Validação e Transformação:** Esse é o momento de consolidar todos os dados recolhidos. Se foram recolhidos de diversas fontes é hora de normaliza-los e aplicar um padrão único de entrada.
 
 **3 - Limpeza:** Sabemos que nem todos os dados coletados serão úteis, então é nessa etapa que precisaremos limpá-los. Este processo é onde removemos os registros que são nulos, registros duplicados e erros básicos. A limpeza dos dados é obrigatória antes de enviar as informações para análise.
 

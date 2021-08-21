@@ -5,7 +5,7 @@ Desenvolvi esse projeto em Python com as suas principais bibliotecas  a partir d
 
 ## Etapas Realizadas:
 
-1 - Exportação da base de dados
+1 - Importação da base de dados
 
 2 - Validação
 

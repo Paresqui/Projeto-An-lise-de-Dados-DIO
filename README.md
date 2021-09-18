@@ -5,6 +5,8 @@
 ## Contexto
 Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Matplotlib, Pandera, Seaborn e etc,  a partir do dataset fornecido pela Digital Innovation One, neste projeto contribui com minha versão implementando mais etapas no processo de análise dos dados, como por exemplo, etapa de Validação dos dados, Transformação, Limpeza, Análise Exploratória e Visualização.
 
+--- 
+
 ## Etapas Realizadas:
 
 **1 - Importação da base de dados:**  Nessa etapa é onde realizamos a importação da nossa base de dados que será analisada posteriormente.

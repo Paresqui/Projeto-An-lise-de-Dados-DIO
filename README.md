@@ -1,11 +1,19 @@
-# Projeto Análise de Dados da Digital Innovation One - DIO
+# Análise de Dados do Dataset Gapminder
 
-<p align="center"><img src="./DIO.png" width="500"></p>
+<p align="center"><img src="./image.png" width="500"></p>
 
 ## Contexto
-Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Matplotlib, Pandera, Seaborn e etc,  a partir do dataset fornecido pela Digital Innovation One, neste projeto contribui com minha versão implementando mais etapas no processo de análise dos dados, como por exemplo, etapa de Validação dos dados, Transformação, Limpeza, Análise Exploratória e Visualização.
 
---- 
+
+Neste projeto, utilizei a linguagem de programação Python para a realização da análise exploratória dos dados no conjunto de dados Gapminder. O Gapminder, originalmente montado por Hans Rosling da Fundação Gapminder, é um extenso conjunto de dados longitudinais de  mais de 320 indicadores de desenvolvimento global para 200 países, abrangendo mais de 3 séculos. Isso inclui variáveis de um amplo conjunto de categorias, como educação, saúde, comércio, pobreza, crescimento populacional e taxas de mortalidade. Nesse dataset em específico, o conjunto de dados fornecido abrange informações de um período que inicia no ano de 1950  e se extende até o ano de 2007.
+
+
+
+
+
+## Bibliotecas utilizadas
+
+Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Pandera, Pandas Profiling, Seaborn e etc 
 
 ## Etapas Realizadas:
 

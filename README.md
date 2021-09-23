@@ -33,5 +33,5 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Pa
 
 ## Exemplos de Visualização
 
-<p align="center"><img src="./image.jpgh" width="500"></p>
+<p align="center"><img src="./newplot (2).png" width="500"></p>
 

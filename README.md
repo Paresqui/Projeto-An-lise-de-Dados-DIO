@@ -31,5 +31,7 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Pa
   **5 - Visualização dos Dados:** A visualização dos dados nos ajuda a obter insights valiosos, ajudando a comparar conjuntos de dados e observar relacionamentos. 
 
 
+## Exemplos de Visualização
 
+<p align="center"><img src="./image.jpgh" width="500"></p>
 

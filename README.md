@@ -2,6 +2,8 @@
 
 <p align="center"><img src="./image.jpg" width="500"></p>
 
+---
+
 ## Contexto
 
 

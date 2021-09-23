@@ -35,3 +35,6 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Pa
 
 <p align="center"><img src="./newplot (2).png" width="800"></p>
 
+<p align="center"><img src="./newplot (3).png" width="800"></p>
+
+<p align="center"><img src="./newplot (5).png" width="800"></p>

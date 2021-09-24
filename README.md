@@ -19,7 +19,7 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Pa
 
 ## Etapas Realizadas:
 
-  **1 - Importação da base de dados:**  Nessa etapa é onde realizamos a importação da nossa base de dados que será analisada posteriormente.
+  **- 1 Importação da base de dados:**  Nessa etapa é onde realizamos a importação da nossa base de dados que será analisada posteriormente.
 
 
   **2 - Validação e Transformação:** Esse é o momento de consolidar todos os dados recolhidos. Se foram recolhidos de diversas fontes é hora de normaliza-los e aplicar um padrão único de entrada.
